@@ -1,0 +1,55 @@
+<resources>
+    <string name="app_name">eMoveOn</string>
+    <string name="session_facebook">Iniciar con Facebook</string>
+    <string name="register">¿Aún no estas registrado?\nDa click Aquí</string>
+
+    <!--Strings para la Activity Register-->
+    <string name="data_regist">Ingresa tus datos para registrarte</string>
+    <string name="name">Nombre</string>
+    <string name="last_name">Apellido</string>
+    <string name="email">Correo Electrónico</string>
+    <string name="pass">Contraseña</string>
+    <string name="confirm_pass">Confirma tu Contraseña</string>
+    <string name="regist">Registrarse</string>
+
+    <!--BOTONES-->
+    <string name="continue_btn">Continuar</string>
+    <string name="next_btn">Siguiente</string>
+    <string name="title_activity_map">Map</string>
+
+    <!--FACEBOOK-->
+    <string name="facebook_app_id">419213542185155</string>
+    <string name="fb_login_protocol_scheme">fb419213542185155</string>
+
+    <!--DASHOBOARD STRINGS-->
+    <string name="newPack">Nuevo Paquete</string>
+    <string name="listPack">Mis Paquetes</string>
+    <string name="myData">Mi Información</string>
+    <string name="logOut">Cerrar Sesión</string>
+    <string name="welcome">Hola</string>
+    <string name="whatDo">¿Qué quieres hacer?</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!--SEND PACKAGE FORM-->
+    <string name="nameDestiny">Nombre del destinatario</string>
+    <string name="weightPack">Peso en Kg</string>
+    <string name="dimentions">Dimensiones en cm (X*Y*Z)</string>
+    <string name="dimentionsP">Dimensiones</string>
+    <string name="labelSend">Ingresa los datos generales del paquete</string>
+    <string name="concept">Concepto</string>
+    <string name="emoveon">eMoveOn</string>
+    <string name="location">Ubicación</string>
+    <string name="destiny">Destinatario</string>
+    <string name="cost">Costo</string>
+    <string name="deliver">Repartidor</string>
+    <string name="status">Estado</string>
+
+    <string name="details">Detalles del Paquete</string>
+    <string name="title_activity_details_package">Detalles del Paquete</string>
+    <string name="idPack">ID</string>
+    <string name="mapInit">Selecciona el origen</string>
+    <string name="mapEnd">Selecciona el destino</string>
+    <string name="confirm">Confirmar Paquete</string>
+</resources>

@@ -1,0 +1,4 @@
+com/blackmark/emoveon/dashboard/DashboardActivity.class
+com/blackmark/emoveon/login/LoginActivity.class
+com/blackmark/emoveon/maps/activityMap.class
+com/blackmark/emoveon/register/register.class

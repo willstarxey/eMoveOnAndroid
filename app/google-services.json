@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "576480384852",
+    "firebase_url": "https://emoveon.firebaseio.com",
+    "project_id": "emoveon",
+    "storage_bucket": "emoveon.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:576480384852:android:e169e37cddcfa0d5931ac1",
+        "android_client_info": {
+          "package_name": "com.blackmark.emoveon"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "576480384852-m7mdi040grmbo9fhjt5cn2hla9p9dgii.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.blackmark.emoveon",
+            "certificate_hash": "a9ca472add80dd09915a3d565b0e063a0c565b4e"
+          }
+        },
+        {
+          "client_id": "576480384852-p97k3loeidi40nrn20fe8l701j4rs33r.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCswiSQ21jY0-EJQSBmUYzMfS_ZQJWuLTU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "576480384852-p97k3loeidi40nrn20fe8l701j4rs33r.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
